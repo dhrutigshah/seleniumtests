@@ -20,5 +20,4 @@ public class testHouse2 {
 		HouseName.payTax();
 		
 	}
-
 }
