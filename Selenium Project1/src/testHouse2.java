@@ -18,6 +18,6 @@ public class testHouse2 {
 		
 		//called static function from class HouseName
 		HouseName.payTax();
-		
 	}
+	
 }
